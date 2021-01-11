@@ -1,6 +1,6 @@
 # Fractal Pyramids
 
-I made this for fun to see what a [T-square (fractal)](https://en.wikipedia.org/wiki/T-square_(fractal)) would look like as bases of pyramids.
+I made this for fun to see what a [T-square (fractal)](https://en.wikipedia.org/wiki/T-square_(fractal)) would look like as bases of pyramids. **This strictly uses square branches related by 1/2.**
 
 ## Use
 
