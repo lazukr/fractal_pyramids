@@ -21,4 +21,4 @@ There is a `config.yml` file that comes with some options:
 | Minimum_size | +Integer | The minimum length for half length/width of the pyramid base. Thus, a value of `1` will make it so the smallest pyramid base is `2` in length/width.
 Tile_size | +Integer | The size of the tile. This purely scales the whole pyramid up.
 Iterations | +Integer | Number of times the fractal pattern should occur. This indirectly decides the maximium pyramid base as it is just `Minimum_size * 2 ^ Iterations`.
-Ignore_proper_fractal | Boolean | While developing, I did not account for the fractal pattern properly and did the fractal pattern in all 4 corners always. If this is `true`, it will draw in all 4 corners regardless.
+Ignore_proper_fractal | Boolean | While developing, I did not account for the fractal pattern properly and always did the fractal pattern in all 4 corners. If this is `true`, it will always draw all 4 corners.
