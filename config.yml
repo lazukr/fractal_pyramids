@@ -4,5 +4,5 @@ iterations: 4
 ignore_proper_fractal: false
 factor: 2
 spacing:
-  - 2 # multiple
-  - 1 # additive
+  - 0 # multiple
+  - 0 # additive
