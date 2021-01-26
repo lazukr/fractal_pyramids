@@ -1,4 +1,8 @@
-Minimum_size: 1
-Tile_size: 1
-Iterations: 6
-Ignore_proper_fractal: true
+minimum_size: 1
+tile_size: 1
+iterations: 4
+ignore_proper_fractal: false
+factor: 2
+spacing:
+  - 2 # multiple
+  - 1 # additive

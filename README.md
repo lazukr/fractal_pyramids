@@ -5,7 +5,11 @@ I made this for fun to see what a [T-square (fractal)](https://en.wikipedia.org/
 ## Use
 
 1. Install all packages in `requirement.txt`
-1. Run:
+1. Activate the virtual environment by running the following:
+    ```bash
+    source env/bin/activate
+    ```
+1. Run the following:
     ```bash
     python draw.py
     ```
