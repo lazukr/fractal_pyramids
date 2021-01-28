@@ -1,3 +1,6 @@
+floor_control: true
+show_blueprint: true
+speed: 0.5
 minimum_size: 1
 tile_size: 1
 iterations: 4
