@@ -1,6 +1,6 @@
 # Fractal Pyramids
 
-I made this for fun to see what a [T-square (fractal)](https://en.wikipedia.org/wiki/T-square_(fractal)) would look like as bases of pyramids. By default, the square branch relation is 1/2. The `factor` configuration allows you to adjust this manually, but it may yield unexpected results.
+I made this for fun to see what a [T-square (fractal)](https://en.wikipedia.org/wiki/T-square_(fractal)) would look like as the base of pyramids. I wanted to see what it would look like before I made it in Minecraft. By default, the square branch relation is 1/2. The `factor` configuration allows you to adjust this manually, but it may yield unexpected results.
 
 ## Use
 
